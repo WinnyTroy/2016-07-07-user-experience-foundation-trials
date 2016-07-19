@@ -1,0 +1,92 @@
+#nav p {
+    text-align: center;
+}
+.container {
+    display: inline-block;
+}
+img {
+    width: 1320px;
+    height: 550px;
+}
+.row {
+    margin-top: 600px;
+    height: 300px;
+    background-color: floralwhite;
+}
+#oh {
+    background-color: darkgray;
+    height: 250px;
+}
+#oh p {
+    color: floralwhite;
+    padding: 15px;
+}
+.we {
+    font-size: 90px;
+}
+#my {
+    background-color: darkslategray;
+    height: 300px;
+}
+#my p {
+    color: floralwhite;
+    padding: 15px;
+}
+.wen {
+    font-size: 25px;
+}
+#happy {
+    height: 300px;
+}
+#happy p {
+    text-align: center;
+    padding-top: 20px;
+    color: darkgray;
+    font-size: 21px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#green {
+    color: chartreuse;
+    font-size: 40px;
+}
+#try {
+    font-size: 21px;
+}
+#section {
+    height: 550px;
+    margin-top: 400px;
+}
+#section div {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    height: 500px;
+    color: floralwhite;
+    background-image: url(../assets/img/download.jpg)
+}
+#move {
+    margin-left: 6.6px;
+}
+#table {
+    text-align: center;
+}
+#table td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#table hover{
+    background-color: blue;
+}
+#image img {
+    height: 300px;
+}
+#footer ol {
+    list-style: none;
+    width: 650px;
+}
+#footer p {
+    float: right;
+    clear: left;
+    width: 550px;
+}
